@@ -125,10 +125,13 @@ Third-Party Services and links thereto are provided solely as a convenience to y
 ## Tracking Technologies
 
 - Cookies
+
 We use Cookies to enhance the performance and functionality of our service but are non-essential to their use. However, without these cookies, certain functionality like videos may become unavailable or you would be required to enter your login details every time you visit our service as we would not be able to remember that you had logged in previously.
 - Local Storage
+
 Local Storage sometimes known as DOM storage, provides web apps with methods and protocols for storing client-side data. Web storage supports persistent data storage, similar to cookies but with a greatly enhanced capacity and no information stored in the HTTP request header.
 - Sessions
+
 Fixy uses "Sessions" to identify the areas of our website that you have visited. A Session is a small piece of data stored on your computer or mobile device by your web browser.
 
 ## Contact Us
